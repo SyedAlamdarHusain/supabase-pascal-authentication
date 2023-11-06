@@ -16,6 +16,12 @@ make
 ./ParentProcess
 ```
 
+## Things to Notice:
+
+Project Submitted on November 6 (Five Days EC):
+
+
+First I implemented ParentProcess to fork 10 child processes, then I implemented sockets by passing a single like between ParentProcess and PrimaryLikesServer once that was successful, I implemented Likeserver function where each LikesServer is forked one second before the previous child and sends a random number of likes between 0 and 42 to PrimaryLikesServer over 5 minutes with  1 to 5 random interval, finally once the data was transfer back I implemented bi-directional connection by PrimaryLikesServer responding back bases on if data transfer was successful
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
