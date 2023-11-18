@@ -76,6 +76,10 @@ npm install react-datepicker
 ```
 
 ```bash
+npm install uuid
+```
+
+```bash
 npm run dev
 ```
 
