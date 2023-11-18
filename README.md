@@ -52,6 +52,10 @@ npm install rsuite
 ```
 
 ```bash
+npm install compromise
+```
+
+```bash
 npm run dev
 ```
 
