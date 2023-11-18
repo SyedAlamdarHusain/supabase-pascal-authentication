@@ -60,6 +60,22 @@ npm install @mui/material tailwindcss
 ```
 
 ```bash
+npm install react-icons
+```
+
+```bash
+npm install @mui/icons-material
+```
+
+```bash
+npm install mdb-react-ui-kit
+```
+
+```bash
+npm install react-datepicker
+```
+
+```bash
 npm run dev
 ```
 
