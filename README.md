@@ -56,6 +56,10 @@ npm install compromise
 ```
 
 ```bash
+npm install @mui/material tailwindcss
+```
+
+```bash
 npm run dev
 ```
 
